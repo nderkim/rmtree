@@ -9,3 +9,7 @@ const rmtree = require('@nderkim/rmtree');
 ```js
 await rmtree(path);
 ```
+
+```
+rmtree :: string -> Promise<void>
+```

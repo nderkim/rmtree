@@ -1,6 +1,6 @@
 {
   "name": "@nderkim/rmtree",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,22 @@
     "type": "git",
     "url": "git+https://github.com/nderkim/rmtree.git"
   },
+  "keywords": [
+    "del",
+    "delete",
+    "deltree",
+    "directory",
+    "rd",
+    "recursive",
+    "remove",
+    "rm",
+    "rm -r",
+    "rm -rf",
+    "rmdir",
+    "rmdir /s",
+    "rmtree",
+    "unlink"
+  ],
   "author": "alex",
   "license": "UNLICENSED",
   "bugs": {
